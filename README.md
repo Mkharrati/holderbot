@@ -68,7 +68,7 @@ Please use the following command to install on your server:
 
 ## install
 ```
-sudo bash -c "$(curl -sL https://github.com/Mkharrati/holderbot/raw/main/holderbot.sh)"
+sudo bash c "$(curl -sL https://github.com/Mkharrati/holderbot/raw/main/holderbot.sh)"
 ```
 ## restart
 ```
