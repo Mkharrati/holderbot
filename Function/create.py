@@ -49,7 +49,7 @@ def DEF_CREATE_USER(CHATID , USERNAME , DATA , DATE , PROXIES , INBOUNDS) :
         "data_limit_reset_strategy": "no_reset",
         "status": "on_hold",
         "note": "by holderbot",
-        "on_hold_timeout": "2024-11-03T20:30:00",
+        "on_hold_timeout": "2027-11-03T20:30:00",
         "on_hold_expire_duration": DATE_TO_SECOND} 
     URL = f"{PANEL_DOMAIN}/api/user"
     POST_DATA = json.dumps(DATA)
